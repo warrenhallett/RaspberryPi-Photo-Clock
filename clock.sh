@@ -43,7 +43,7 @@ let "Digit0Y=ImageHeight*0"
 ###### Pictures ######
 ## The ImagePath needs to contain 10 directories "0", "1", "2", "3", etc... ##
 ## The images stored in each of these directories will be used ##
-ImagePath="/home/warren/Pictures/"
+ImagePath="./"
 
 ### Image Cycle Duration ###
 Duration3=1
